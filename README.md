@@ -66,7 +66,3 @@ Ensure to change the default authentication credentials before deploying to a pr
 ## License
 
 [MIT License](https://github.com/CitroenGames/SMTP-Server/blob/main/LICENSE)
-
----
-
-This should better match the setup process for your project. Again, adjust any placeholder values to suit your actual project details.
