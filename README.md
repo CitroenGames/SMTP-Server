@@ -63,13 +63,9 @@ To configure the SMTP server and web front-end:
 
 Ensure to change the default authentication credentials before deploying to a production environment. Keep the `.env` and `config.json` files secured.
 
-## Contribute
-
-Want to contribute to the development of SMTP-Server? Check out our [CONTRIBUTING.md](path-to-your-contributing.md-if-you-have-one) or simply create an issue or a pull request.
-
 ## License
 
-[MIT License](path-to-your-license-file-if-you-have-one)
+[MIT License](https://github.com/CitroenGames/SMTP-Server/blob/main/LICENSE)
 
 ---
 
