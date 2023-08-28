@@ -1,0 +1,32 @@
+{
+  "name": "smtp-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "CitroenGames",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-basic-auth": "^1.2.1",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "mailparser": "^3.6.5",
+    "sanitize-html": "^2.11.0",
+    "smtp-server": "^3.13.0",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CitroenGames/SMTP-Server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CitroenGames/SMTP-Server/issues"
+  },
+  "homepage": "https://github.com/CitroenGames/SMTP-Server#readme",
+  "description": ""
+}

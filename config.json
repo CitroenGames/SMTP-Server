@@ -1,0 +1,9 @@
+{
+    "basicAuth": {
+        "users": {
+            "user": "pass"
+        },
+        "challenge": true,
+        "realm": "My SMTP Web Server"
+    }
+}
